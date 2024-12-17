@@ -30,9 +30,6 @@ This portfolio was created to highlight my journey as a developer. It provides i
 
 ## Screenshots
 
-### Home Page
-![Home Page Screenshot](/assets/colas.png)
-
 ### Portfolio Projects
 ![Portfolio Project 1 Screenshot](/assets/Chrauma.png)
 ![Portfolio Project 2 Screenshot](/assets/orbs.png)
